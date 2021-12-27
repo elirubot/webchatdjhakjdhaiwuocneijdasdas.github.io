@@ -1,0 +1,197 @@
+BODY {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	MARGIN: 0px; 
+	WIDTH: 100%; 
+	HEIGHT: 100%
+}
+P {
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.LSideFrameBg {
+	background-color: #e9e9e9;
+	background-image: url(../img/leftBorder3Bg.gif);
+}
+.LSideFrameBgShadow {
+	background-color: #e9e9e9;
+	background-image: url(../img/leftBorder2Bg.gif);
+	background-position: top;
+	height: 100%;
+	width: 11px;
+}
+.LSideFrameBgDetail {
+	background-color: #e9e9e9;
+	background-image: url(../img/LeftBorderBg.gif);
+	background-repeat: repeat-y;
+	background-position: top;
+	height: 100%;
+	width: 10px;
+}
+.RSideFrameBg {
+	background-color: #e9e9e9;
+	background-image: url(../img/RightBorder3Bg.gif);
+}
+.RSideFrameBgShadow {
+	background-color: #e9e9e9;
+	background-image: url(../img/RightBorder2Bg.gif);
+	background-position: top;
+	height: 100%;
+	width: 11px;
+}
+.RSideFrameBgDetail {
+	background-color: #e9e9e9;
+	background-image: url(../img/RightBorderBg.gif);
+	background-repeat: repeat-y;
+	background-position: top;
+	height: 100%;
+	width: 10px;
+}
+.FeaturesMenuBodyBg {
+	background-image: url(../img/PortalFeatureMidBg.jpg);
+	background-repeat: repeat-y;
+	width: 193px;
+	height: 100%;
+}
+.FeaturesMenuBase {
+	background-image: url(../img/PortalFeaturesBase.jpg);
+	background-repeat: no-repeat;
+	height: 92px;
+	width: 193px;
+}
+.FeaturesMenuBase1 {
+	background-image: url(../img/PortalFeatureMenuTop.jpg); 
+	background-repeat: no-repeat;
+	height: 85px;
+	width: 193px;
+}
+.FeaturesMenuText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-transform: capitalize;
+	color: #FFFFFF;
+	vertical-align: middle;
+	height: 16px;
+	width: 100%;
+	display:block;
+	padding-left: 22px;
+	font-variant: small-caps;
+	text-decoration: none;
+}
+a.FeaturesMenuText:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-transform: capitalize;
+	color: #FFFFFF;
+	vertical-align: middle;
+	width: 154px;
+	display:block;
+	padding-left: 22px;
+	font-variant: small-caps;
+}
+a.FeaturesMenuText:visited {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-transform: capitalize;
+	color: #FFFFFF;
+	display:block;
+	vertical-align: middle;
+	width: 154px;
+	padding-left: 22px;
+	font-variant: small-caps;
+}
+a.FeaturesMenuText:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-transform: capitalize;
+	color: #FFFFFF;
+	vertical-align: middle;
+	font-variant: small-caps;
+	background-color: #54596c;
+	background-image: url(../img/PortalFeaturesMsOverArrow.gif);
+	background-repeat: no-repeat;
+	background-position: left;
+	display:block;
+	width: 154px;
+}
+a.FeaturesMenuText:active {
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-transform: capitalize;
+	display:block;
+	color: #FFFFFF;
+	vertical-align: middle;
+	width: 154px;
+	padding-left: 22px;
+	font-variant: small-caps;
+}
+.SiteText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #445768;
+	padding-top: 8px;
+	padding-right: 25px;
+	padding-bottom: 20px;
+	padding-left: 25px;
+}
+
+.SiteMsg {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #445768;
+}
+
+.SiteText p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #445768;
+	padding-top: 8px;
+}
+a.BodyTopTextLinks:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #68768f;
+	padding: 4px;
+	text-decoration: none;
+}
+.Header1DarkGray {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	line-height: 21px;
+	color: #445768;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-transform: capitalize;
+	padding-top: 20px;
+	padding-right: 25px;
+	padding-bottom: 20px;
+	padding-left: 25px;
+}
+.table_header {
+	font-family: Arial, Helvetica, sans-serif;
+	PADDING-LEFT: 4px; 
+	FONT-SIZE: 11px; 
+	COLOR: #666666; 
+	PADDING-TOP: 4px; 
+	HEIGHT: 21px; 
+	TEXT-ALIGN: left
+}
+.table_oheader {
+	PADDING-LEFT: 4px;
+	FONT-SIZE: 11px; 
+	background-color: #eeeeee;
+	COLOR: #666666; 
+	PADDING-TOP: 4px; 
+	HEIGHT: 21px; 
+	TEXT-ALIGN: left
+}
+.sb {
+        border-left : 1px solid #7e7e7e;
+        border-right : 1px solid #7e7e7e;
+        border-top : 1px solid #7e7e7e;
+        border-bottom : 1px solid #7e7e7e;
+        color: #7e7e7e;
+        background-color: #fff;
+        font: bold 11px Arial;
+}
