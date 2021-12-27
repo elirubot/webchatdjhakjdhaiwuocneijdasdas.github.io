@@ -1,0 +1,3 @@
+<?
+include ("skin/iform.tpl");
+?>
