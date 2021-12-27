@@ -1,0 +1,135 @@
+body { 
+	padding: 0; 
+	color: #000080; 
+	background: #fff url(../bord.gif); 
+	font: 14px MS Sans Serif; 
+	margin: 0px 60px 0px 88px; 
+	scrollbar-face-color: #ddd; 
+	scrollbar-highlight-color: #ddd; 
+	scrollbar-shadow-color: #ddd; 
+	scrollbar-3dlight-color: #f0f0f0; 
+	scrollbar-darkshadow-color: #ccc; 
+	scrollbar-track-color: #fff; 
+	scrollbar-arrow-color: #fff 
+}
+table { 
+	color: #000080; 
+	font: 14px MS Sans Serif 
+}
+form { 
+	margin: 0 
+}
+.h { 
+	color: #000080; 
+	font-weight: 700; 
+	text-align: right; 
+	border-bottom: solid 1px #000080; 
+	padding: 20px 0px 2px 
+}
+.menu a { 
+	color: #00c; 
+	font: 700 12px MS Sans Serif; 
+	text-decoration: none; 
+	padding: 0px 3px 
+}
+.menu a:hover { 
+	color: #b2b2ff 
+}
+.nl { 
+	color: #7f7fff; 
+	font: 100 14px MS Sans Serif 
+}
+.inp { 
+	color: #00f; 
+	background: #fff; 
+	font: 14px MS Sans Serif; 
+	border: solid 1px; 
+	border-color: #fff #fff #009 #fff 
+}
+.btn { 
+	color: #66f; 
+	background: #f0f0ff url(../tb2.gif); 
+	font: 14px MS Sans Serif; 
+	border: solid 1px #ccf; 
+	height: 20px 
+}
+.err { 
+	color: #f00; 
+	font: 700 14px MS Sans Serif 
+}
+.photo { 
+	position: relative; 
+	border: solid 1px #ccc; 
+	margin: 4px; 
+	padding: 3px 
+}
+.photo span { 
+	position: absolute; 
+	color: #009; 
+	background: #fff; 
+	font: 100 12px MS Sans Serif; 
+	border: solid 1px #009; 
+	margin: 9px 5px; 
+	padding: 3px 
+}
+.del { 
+	background: #fcc; 
+	border: solid 1px #f00; 
+	padding: 3px 
+}
+#thumbs { 
+	overflow: auto; 
+	text-align: left; 
+	border: solid 1px #009; 
+	padding: 5px; 
+	height: 340px 
+}
+#comment { 
+	display: none 
+}
+.bg0 { 
+	background: #f8f8f8 
+}
+.bg1 { 
+	background: #fff 
+}
+textarea.inp { 
+	border: solid 1px #009 
+}
+div.top { 
+	color: #c0c0ff; 
+	background:  url(../tb1.gif); 
+	font: 700 16px MS Sans Serif; 
+	text-align: right; 
+	width: 500px 
+}
+div.top a { 
+	color: #c0c0ff; 
+	background: #fff; 
+	text-decoration: none; 
+	margin: 0px 20px 0px 0px 
+}
+hr { 
+	border-bottom: solid 1px #009; 
+	margin: 1px; 
+	height: 1px 
+}
+.bgn0 { 
+	background: #f8f8f8 
+}
+.bgn1 { 
+	background: #f0f0f0 
+}
+.nl th { 
+	background: #009 
+}
+.btns input.btn { 
+	width: 100px 
+}
+.btns { 
+	background:  url(../db.gif) 
+}
+.nl .n { 
+	color: #00c; 
+	font-weight: 700 
+}
